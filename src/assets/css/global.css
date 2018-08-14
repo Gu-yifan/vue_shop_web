@@ -1,0 +1,18 @@
+html,
+body,
+#app {
+  height: 100%;
+  width: 100%;
+
+  margin: 0;
+  padding: 0;
+}
+
+i.iconfont {
+  margin-right: 10px;
+}
+
+.el-submenu__title,
+.el-menu-item {
+  font-size: 13px;
+}
